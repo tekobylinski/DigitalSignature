@@ -1,4 +1,4 @@
-# DigitalSignature
+# DigitalSignature #Project forked from sew62.
 uses the RSA encryption algorithm to sign a file to test if it was altered
 
 Program creates a public and private key through the RSA algorithm, then opens a file to sign.
